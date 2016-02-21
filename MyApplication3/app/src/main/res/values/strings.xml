@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application 3</string>
+
+    <string name="firt_text">First button</string>
+    <string name="second_text">Second button</string>
+    <string name="first_button">Go to second button</string>
+    <string name="second_button">Go to first button</string>
+</resources>
