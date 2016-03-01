@@ -1,4 +1,4 @@
-package com.oleg.myapplication2.app;
+package com.domvit.android.androidlesson9activityresultexam;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
